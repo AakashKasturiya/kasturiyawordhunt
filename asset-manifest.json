@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kasturiyawordhunt/static/css/main.b5c13999.chunk.css",
+    "main.js": "/kasturiyawordhunt/static/js/main.3bef10a1.chunk.js",
+    "main.js.map": "/kasturiyawordhunt/static/js/main.3bef10a1.chunk.js.map",
+    "runtime-main.js": "/kasturiyawordhunt/static/js/runtime-main.d082b86e.js",
+    "runtime-main.js.map": "/kasturiyawordhunt/static/js/runtime-main.d082b86e.js.map",
+    "static/js/2.52818226.chunk.js": "/kasturiyawordhunt/static/js/2.52818226.chunk.js",
+    "static/js/2.52818226.chunk.js.map": "/kasturiyawordhunt/static/js/2.52818226.chunk.js.map",
+    "index.html": "/kasturiyawordhunt/index.html",
+    "static/css/main.b5c13999.chunk.css.map": "/kasturiyawordhunt/static/css/main.b5c13999.chunk.css.map",
+    "static/js/2.52818226.chunk.js.LICENSE.txt": "/kasturiyawordhunt/static/js/2.52818226.chunk.js.LICENSE.txt",
+    "static/media/favicon.f9492665.ico": "/kasturiyawordhunt/static/media/favicon.f9492665.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d082b86e.js",
+    "static/js/2.52818226.chunk.js",
+    "static/css/main.b5c13999.chunk.css",
+    "static/js/main.3bef10a1.chunk.js"
+  ]
+}
